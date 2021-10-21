@@ -6,4 +6,4 @@ module.exports = {
     arrowParens: 'avoid',
     tabWidth: 4,
     printWidth: 100,
-  };
+};
